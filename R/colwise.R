@@ -47,7 +47,7 @@
 #'
 #' @section Grouping variables:
 #'
-#' Most of these operations also apply on the grouping variables when
+#' Most of the operations will also apply on the grouping variables when
 #' they are part of the selection. This includes:
 #'
 #' * [arrange_all()], [arrange_at()], and [arrange_if()]
